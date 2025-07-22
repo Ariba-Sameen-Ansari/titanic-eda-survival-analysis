@@ -14,14 +14,13 @@ Exploratory Data Analysis of the Titanic dataset using Pandas, Seaborn, and Matp
 ## 🖼️ Visualizations
 
 ### 1. Age Distribution  
-![Age Distribution](screenshots/age_distribution.png)
+![Age Distribution](age_distribution.png)
 
 ### 2. Survival by Class  
-![Survival by Class](screenshots/survival_by_class.png)
+![Survival by Class](survival_by_class.png)
 
 ### 3. Age by Sex and Survival  
-![Age by Sex and Survival](screenshots/age_by_sex_and_survival.png)
-
+![Age by Sex and Survival](age_by_sex_and_survival.png)
 ## 📁 File Structure
 - `Titanic_EDA_Survival_Analysis.ipynb` – Main analysis notebook  
 - `screenshots/` – Key output visualizations  
